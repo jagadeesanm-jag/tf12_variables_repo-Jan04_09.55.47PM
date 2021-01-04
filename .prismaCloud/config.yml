@@ -1,0 +1,6 @@
+template_type: TF
+terraform_version: 0.12
+terraform_012_parameters:
+
+tags:
+- Team:Shift_Left_tf12_variables
